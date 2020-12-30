@@ -1,1 +1,1 @@
-### Aim of the experiment
+To determine the Turbidity of the given water sample using Nephelometer.     
