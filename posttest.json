@@ -1,0 +1,46 @@
+[{
+	"question": "The good quality of water should have dissolved solids of? ",
+	"answers": {
+		"a": "25mg/l to 30mg/l",
+		"b": "30mg/l to 55mg/l",
+		"c": "60mg/l to 75mg/l",
+		"d": "5mg/l to 20mg/l"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "When the sewage becomes stronger, the Turbidity of waste water",
+	"answers": {
+		"a": "Increases",
+		"b": "Decreases",
+		"c": "Remains same",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Light source - Tungsten filament lamp operated at a colour temperature between?",
+	"answers": {
+		"a": "2230&deg;K and 3000&deg;K",
+		"b": "2200&deg;K and 3500&deg;K",
+		"c": "2200&deg;K and 3000&deg;K",
+		"d": "2230&deg;K and 3300&deg;K"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "The Formazin Suspension is defined as ___________ Nephelometric Turbidity Units (NTU).",
+	"answers": {
+		"a": "1000",
+		"b": "2000",
+		"c": "3000",
+		"d": "4000"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Water sample has a Turbidity value of 8 JTU. What is your comment on this?",
+	"answers": {
+		"a": "Suitable for drinking",
+		"b": "Not Suitable for drinking",
+		"c": "Suitable for domestic use",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}]
