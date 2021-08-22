@@ -39,7 +39,7 @@ function myStopFunction()
 
 var ca;
 var questions=["Which of the following unit is not used to measure turbidity of water?",
-			   "Turbidity is caused by particles suspended or dissolved in water</br> that scatter light making the water appear cloudy or murky.",
+			   "Turbidity is caused by particles suspended in water that </br>scatter light making the water appear cloudy or murky.",
 			   "Which of the following reagents are used to preapre </br>solution 1 and solution 2 respectively?"];
 var options2=[["NTU","ATU","JTU","FTU"],//ans:ATU (1)
 			  ["True","False"],//True(0)
