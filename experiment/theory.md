@@ -1,6 +1,12 @@
 ### INTRODUCTION<br>
 
-<p style="text-indent:50px; text-align:justify;">Turbidity is a measure of degree at which the water loses its transparency because of the presence of suspended particles. The amount of total suspended solids in the water is high, then that water sample has higher turbidity.</p>
+<p style="text-indent:50px; text-align:justify;">Turbidity is a measure of degree at which the water loses its transparency because of the presence of suspended particles. The amount of total suspended solids in the water is high, then that water sample has higher turbidity. The scattering or absorption of light by solid or colloidal particles suspended in solution is the basis of nephelometry and turbidimetry. When light passes through the suspension, some of the incident radiant energy is dissipated through absorption, reflection, and reaction, while the rest is transmitted.</p>
+
+<center>
+  <img src="images/turbidity.png" /><br>
+  Fig: Principle of Nephelometry and Turbidimetry<br>
+  (Source: <a href="http://rxpharmaworld.blogspot.com/2016/12/nephelometry-and-turbidimetry.html">http://rxpharmaworld.blogspot.com/2016/12/nephelometry-and-turbidimetry.html</a>)
+</center><br>
 
 There are various parameters influencing the turbidity/cloudiness of the water. Some of these are :
 <ul style="text-align:justify;">
